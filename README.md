@@ -1,6 +1,6 @@
 # 👋 Hi! I'm turb0Code
 
-- 🔭 I’m currently working on [Task Up](https://github.com/turb0Code/Task-Up)
+- 🔭 Check out my newest project: [Speeding-Dash](https://github.com/turb0Code/Speeding-Dash)
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/turb0Code)
 
